@@ -1,1 +1,1 @@
-# awesome-github-actions-workflows
+# Awesome GitHub Actions Workflows
